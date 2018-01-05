@@ -20,3 +20,5 @@ Transmitter pairs are configured to generate 2 streams -single tone- to be trans
 The settings configurtion of Reciever Side:
 + The first USRP (Mb0) is set to use its default reference for clocking and timing.
 + The second USRP (Mb1) is configured to accept its frequency and timing reference from the MIMO cable. 
+
+#### http://www.ece.uvic.ca/~elec350/grc_doc/ar01s03s05.html
